@@ -15,3 +15,11 @@ Some data structures that can be used in range-operations or range-calculations.
 - `SegmentTree.py`: Origninal segment tree with point-updates.
 
 - `LazySegmentTree.py`: Segment tree with lazy propagation.
+
+## Number Theory
+
+Classic number theory method
+
+- `Chinese_Remainder_Theorem.py`: Gives a modulo solution of the given constraints.
+
+- `(Generalized_)Factorial.py`: Gives the result of $A! \mod b$n, mod = ...
