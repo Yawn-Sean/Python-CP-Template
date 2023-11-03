@@ -22,9 +22,9 @@ Classic number theory method
 
 - `Primes.py`: Check if a number is a prime; prime factorization; give all the factors of a number.
 
-- `(Generalized_)Factorial.py`: Gives the result of $A!\mod b$ and some relevant values.
+- `(Generalized_)Factorial.py`: Gives the result of `A! mod b` and some relevant values.
 
-- `Power_of_grid.py`: Calculate the power of a grid modulo a number.
+- `Power_of_Matrix.py`: Calculate the power of a grid modulo a number.
 
 - `Mobius_Inversion.py`: Mobius inversion.
 
