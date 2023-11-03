@@ -4,6 +4,8 @@
 
 Some data structures that can be used in range-operations or range-calculations.
 
+- `Blocks.py`: Use blocks to answer offline questions. `[l, r]` are stored separately.
+
 - `FenwickTree.py`: Point-add and range-sum.
 
 - `OperationalFenwickTree.py`: Value changed monotonely and prefix result returned.
